@@ -57,7 +57,7 @@ class Welcome extends StatelessWidget {
                     backgroundColor: const Color.fromARGB(255, 80, 120, 241),
                     foregroundColor: const Color.fromARGB(255, 250, 249, 249),
                   ),
-                ),
+                ), 
               ),
             ],
           ),
