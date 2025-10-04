@@ -75,7 +75,7 @@ class Login extends StatelessWidget {
                     foregroundColor: Colors.white,
                   ),
                 ),
-              ),SizedBox(height: 5,),
+              ),SizedBox(height: 10,),
               Row(mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Text("Dont have a account?"),
@@ -87,7 +87,7 @@ class Login extends StatelessWidget {
                   ],
                 ),
               
-              Image.asset("assets/signup.jpg")
+              Image.asset("assets/signup.jpg",height: 300,)
             ],
           ),
         ),
